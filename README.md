@@ -1,6 +1,6 @@
 # Definitely-Not-A-Stun-Gun
 
-![Stun-Gun image](images/Stun-Gun.png | width=200)
+![Stun-Gun image](images/Stun-Gun.png)
 
 Around two years ago, I bought one of those super cheap high voltage generators on Aliexpress.
 
