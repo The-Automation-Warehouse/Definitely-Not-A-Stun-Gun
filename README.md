@@ -1,14 +1,16 @@
 # Definitely-Not-A-Stun-Gun
 
+![HV_Generator image](images/Stun-Gun.png)
+
 Around two years ago, I bought one of those super chup high voltage generators on Aliexpress.
 ![HV_Generator image](images/HV_Generator.png)
 I has been sitting in my drawer since then, but now I finally decided to do something with it.
 I built a stun gun with it.
 
 
-![Warning sigh](images/Warning.png)
+![Warning sign](images/Warning.png)
 # Disclaimer
-I live in Czech Republic, where stun guns are owning a sun gun is legal, as long as it is the kind that does not fire its contacts and the owner is over 18 years old.
+I live in Czech Republic, where wning a stun gun is legal, as long as it is the kind that does not fire its contacts and the owner is over 18 years old.
 I am not responsible for any harm you cause to yourself or others with this device.
 This is a dangerous device!
 Make sure to check the laws in your country before building one.
@@ -25,6 +27,7 @@ Please be careful and use it responsibly.
 - Some wire
 - 3D printed case
 - Hot glue
+![CAD](images/HV_Generator.png)
 
 # Circuit
 ![Circuit](images/Schematic.png)
