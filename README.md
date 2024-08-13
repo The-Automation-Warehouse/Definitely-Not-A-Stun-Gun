@@ -34,11 +34,11 @@ Please be careful and use it responsibly.
 
 <img src="images/Enclosure.png" alt="CAD" height="320">
 
-<img src="images/Inside.png" alt="Inside view" height="320">
+<img src="images/Inside.jpg" alt="Inside view" height="320">
 
 
 ## Circuit
-<img src="images/Schematic" alt="Schematicw" height="320">
+<img src="images/Schematic.png" alt="Schematic" height="320">
 
 All the components are connected in series.
 This means that in order to turn the device on, the switch must be on and both buttons must be pressed.
