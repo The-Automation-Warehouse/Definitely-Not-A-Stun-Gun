@@ -1,10 +1,10 @@
 # Definitely-Not-A-Stun-Gun
 
-![Stun-Gun image](images/Stun-Gun.jpg)
+<img src="images/Stun-Gun.jpg" alt="Finished project image" height="320">
 
 Around two years ago, I bought one of those super cheap high voltage generators on Aliexpress.
 
-![HV_Generator image](images/HV_Generator.png)
+<img src="images/HV_Generator.png" alt="HV_Generator image" height="320">
 
 I has been sitting in my drawer since then, but now I finally decided to do something with it.
 I built a stun gun with it.
@@ -32,12 +32,13 @@ Please be careful and use it responsibly.
 - 4 6x4.5 threaded inserts
 - Hot glue
 
-![CAD](images/Enclosure.png)
-![Inside view](images/Inside.jpg)
+<img src="images/Enclosure.png" alt="CAD" height="320">
+
+<img src="images/Inside.png" alt="Inside view" height="320">
 
 
 ## Circuit
-![Circuit](images/Schematic.png)
+<img src="images/Schematic" alt="Schematicw" height="320">
 
 All the components are connected in series.
 This means that in order to turn the device on, the switch must be on and both buttons must be pressed.
