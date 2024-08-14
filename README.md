@@ -1,6 +1,7 @@
 # Definitely-Not-A-Stun-Gun
 
 Made as part of Arcade Hack Club
+
 Used github copilot when writing README
 
 <img src="images/Stun-Gun.jpg" alt="Finished project image" height="320">
